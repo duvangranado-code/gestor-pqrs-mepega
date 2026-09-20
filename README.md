@@ -3,7 +3,7 @@
 
 Sistema de gestión de Peticiones, Quejas, Reclamos y Sugerencias (PQRS) para servicios veterinarios de perros y gatos y otros animales, desarrollado para el curso de Algoritmia y Programación - Universidad de Antioquia.
 
-## Integrantes del equipo
+## 1. Integrantes del equipo
 
 - **Duvan Estiben Granado Alzate** — [tu correo]@udea.edu.co — Ingeniería Industrial
 - **Mario Estrada** — mario.estrada2@udea.edu.co — [programa]
