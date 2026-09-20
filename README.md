@@ -8,7 +8,7 @@ de Algoritmia y Programación - Universidad de Antioquia, Sede Suroeste.
 
 - **Duvan [tu apellido]** — [tu correo]@udea.edu.co — Ingeniería Industrial
 - **Mario Estrada** — mario.estrada2@udea.edu.co — [programa]
-- **Samuel González** — samuel.gonzalez4@udea.edu.co — [programa]
+- **Samuel González Contreras** — samuel.gonzalez4@udea.edu.co — Ingeniería Industrial
 - **Yeiso Solar** — y.solar@udea.edu.co — Ingeniería Industrial
 
 ## Descripción del proyecto
