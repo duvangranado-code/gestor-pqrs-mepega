@@ -1,4 +1,7 @@
 # 3. Nombre del proyecto y detalles
+
+![Logo MEPEGA](images/Logo.jpg)
+
 ## Gestor de PQRS - Mepega
 
 Sistema de gestión de Peticiones, Quejas, Reclamos y Sugerencias (PQRS) para servicios veterinarios de perros y gatos y otros animales, desarrollado para el curso de Algoritmia y Programación - Universidad de Antioquia.
