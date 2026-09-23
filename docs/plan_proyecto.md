@@ -21,7 +21,7 @@ Para organizar el trabajo del equipo a lo largo del semestre, dividimos el proye
   * Generación de estadísticas de gestión y preparación de los datos para enlazarlos con la herramienta de visualización (Power BI) para la segunda entrega.
   * Depuración general de errores en consola, pruebas con entradas incorrectas de usuario para asegurar que el programa no se caiga, y empaquetado de la solución completa para la entrega final.
 
-![Diagrama de Gantt del Proyecto](../images/NOMBRE_DE_TU_IMAGEN.png)
+![Diagrama de Gantt del Proyecto](../images/Gantt.png)
 
 *[Descargar el archivo completo de Excel del Cronograma](../docs/Cronograma_Proyecto_PQRS_MEPEGA.xlsx)* 
 ---
