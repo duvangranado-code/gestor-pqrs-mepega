@@ -21,12 +21,20 @@ Para organizar el trabajo del equipo a lo largo del semestre, dividimos el proye
 
 ---
 
-### Presupuesto en Horas (Esfuerzo del Equipo)
+###7. Presupuesto y Estimación de Costos (Simulación Académica)
 
-Para cumplir con los requerimientos de la asignatura, estimamos un esfuerzo global de **50 horas de trabajo colaborativo**, distribuidas de manera equitativa entre los 4 integrantes del grupo (aproximadamente 12.5 horas por persona), valoradas bajo el marco conceptual de un Salario Mínimo Legal Vigente (SMLV):
+Para cumplir con los requerimientos de la asignatura, estimamos un esfuerzo global de **50 horas de trabajo colaborativo**, distribuidas de manera equitativa entre los 4 integrantes del grupo (aproximadamente 12.5 horas por persona), valoradas bajo el marco conceptual de un Salario Mínimo Legal Vigente (SMLV) aplicado a un rol de estudiante en práctica:
 
 * **Duvan:** Coordinación del repositorio, control de versiones y documentación inicial (12.5 horas).
 * **Mario:** Desarrollo de la lógica de archivos planos y estructuras de datos (12.5 horas).
-* **Samuel:** Implementación de los módulos de control de usuarios y validaciones (12.5 horas).
+* **Samuel:** Implementación los módulos de control de usuarios y validaciones (12.5 horas).
 * **Yeiso:** Creación de reportes, estadísticas e integración con Power BI (12.5 horas).
 * **Total de esfuerzo conjunto:** 50 horas invertidas en el proyecto.
+
+#### Conversión Económica y Simulación de Costos
+
+Siguiendo las directrices institucionales y tomando como referencia la jornada máxima legal actual de **43 horas semanales** en Colombia, se realiza la siguiente simulación de costos para el proyecto:
+
+1. **Base de Cálculo por Hora (Practicante):** Tomando el valor del Salario Mínimo Legal Vigente (SMLV) prorrateado a una base mensual estimada sobre la jornada de 43 horas semanales.
+2. **Valorización del Esfuerzo:** Al multiplicar el total de horas invertidas por el equipo (**50 horas**) por el valor hora calculado del practicante, se obtiene el valor total simulado del desarrollo del entregable.
+3. **Justificación:** Aunque no representa una transacción financiera real al tratarse de un entorno académico, este cálculo matemático evidencia el dimensionamiento de los recursos humanos y el tiempo invertido en la gestión de ingeniería del software.
