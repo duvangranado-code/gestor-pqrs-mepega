@@ -30,11 +30,12 @@ Para organizar el trabajo del equipo a lo largo del semestre, dividimos el proye
 
 Para cumplir con los requerimientos de la asignatura, estimamos un esfuerzo global de **50 horas de trabajo colaborativo**, distribuidas de manera equitativa entre los 4 integrantes del grupo (aproximadamente 12.5 horas por persona), valoradas bajo el marco conceptual de un Salario Mínimo Legal Vigente (SMLV) aplicado a un rol de estudiante en práctica:
 
-* **Duvan:** Coordinación del repositorio, control de versiones y documentación inicial (12.5 horas).
-* **Mario:** Desarrollo de la lógica de archivos planos y estructuras de datos (12.5 horas).
-* **Samuel:** Implementación los módulos de control de usuarios y validaciones (12.5 horas).
-* **Yeiso:** Creación de reportes, estadísticas e integración con Power BI (12.5 horas).
-* **Total de esfuerzo conjunto:** 50 horas invertidas en el proyecto.
+* **Duvan Estiben Granado Alzate:** Coordinación del repositorio, control de versiones y documentación inicial (12.5 horas).
+* **Mario Garcia:** Desarrollo de la lógica de archivos planos y estructuras de datos (12.5 horas).
+* **Samuel González contreras:** Implementación los módulos de control de usuarios y validaciones (12.5 horas).
+* **Yeison Solar:** Creación de reportes, estadísticas e integración con Power BI (12.5 horas).
+* 
+* **Total de esfuerzo en conjunto:** 50 horas invertidas en el proyecto.
 
 #### Conversión Económica y Simulación de Costos
 
