@@ -23,7 +23,7 @@ Para organizar el trabajo del equipo a lo largo del semestre, dividimos el proye
 
 ![Diagrama de Gantt del Proyecto](../images/Gantt.png)
 
-*[Descargar el archivo completo de Excel del Cronograma](../docs/Cronograma_Proyecto_PQRS_MEPEGA.xlsx)* 
+*[Descargar el archivo completo de Excel del Cronograma](../docs/Cronograma_Actualizado_PQRS_MEPEGA.xlsx)*    
 ---
 
 ###7. Presupuesto y Estimación de Costos (Simulación Académica)
