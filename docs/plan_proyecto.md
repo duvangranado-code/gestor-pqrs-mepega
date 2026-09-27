@@ -3,23 +3,24 @@
 ### Cronograma de Actividades
 Para organizar el trabajo del equipo a lo largo del semestre, dividimos el proyecto en tres fases principales ajustadas al cronograma de 12 semanas:
 
-* **Fase 1 (Semanas 1 a 4) — Análisis y Estructuración Inicial:**
-  * Definición de los objetivos del proyecto y redacción de las actas de equipo (Entendimiento, Colaboración y Responsabilidad).
-  * Creación y configuración inicial del repositorio en GitHub, estableciendo las carpetas clave (`src`, `docs`, `data`, `images`) y los archivos de texto base.
-  * Diseño de identidad visual y logotipo del proyecto (MEPEGA).
-  * Definición del Plan de Proyecto y Cronograma (Gantt).
-  * Consolidación de la documentación base para la Primera Entrega.
+* **Fase 1 (16 al 18 de septiembre de 2026) — Configuración y Diagnóstico Inicial:**
+  * Definición de los objetivos del proyecto, alcance y redacción de las actas de equipo (Entendimiento, Colaboración y Responsabilidad).
+  * Creación y configuración inicial del repositorio en GitHub, estableciendo las carpetas clave (`src`, `docs`, `data`, `images`) y los archivos base.
+  * Diagnóstico y recolección de información para la gestión de PQRS en MEPEGA.
 
-* **Fase 2 (Semanas 5 a 10) — Desarrollo del Núcleo en Python (En la que estamos actualmente):**
-  * Construcción del módulo de inicio de sesión con validación de roles (Administrador y Operador/Vendedor) usando diccionarios.
-  * Programación de las funciones principales para registrar, consultar y actualizar las PQRS guardándolas de forma ordenada en los archivos de texto (`utf-8`).
-  * Desarrollo de reportes estadísticos y manejo de archivos de persistencia.
-  * Integración completa de módulos y pruebas unitarias de código.
+* **Fase 2 (19 al 24 de septiembre de 2026) — Desarrollo Técnico y Lógica en Python:**
+  * Análisis de procesos y oportunidades de mejora en el registro y control de documentos.
+  * Diseño y estructuración del código en Python para el menú, autenticación y manejo de archivos planos (`Peticion.txt`, `Queja.txt`, `Reclamo.txt`, `Sugerencia.txt`).
+  * Implementación de validaciones robustas (correo, teléfono, documentos y fechas).
 
-* **Fase 3 (Semanas 11 a 12) — Pruebas, Ajustes Finales y Entrega Final:**
-  * Implementación del cálculo automático de los días y plazos límite de respuesta definidos por el equipo.
-  * Generación de estadísticas de gestión y preparación de los datos para enlazarlos con la herramienta de visualización (Power BI) para la segunda entrega.
-  * Depuración general de errores en consola, pruebas con entradas incorrectas de usuario para asegurar que el programa no se caiga, y empaquetado de la solución completa para la entrega final.
+* **Fase 3 (25 al 29 de septiembre de 2026) — Documentación y Redacción Final:**
+  * Redacción del informe escrito (Visión, Requisitos, Plan de Proyecto y Presupuesto).
+  * Revisión general de formato, normas de presentación y consolidación del archivo de Excel del cronograma.
+  * Actualización del diagrama de Gantt (`Gantt.png`) en la carpeta de imágenes del repositorio.
+
+* **Fase 4 (30 de septiembre al 01 de octubre de 2026) — Entrega y Sustentación:**
+  * **30 de septiembre de 2026:** Entrega formal de los puntos 1 al 7 a través del repositorio de GitHub.
+  * **01 de octubre de 2026:** Preparación y sustentación del proyecto ante el docente.
 
 ![Diagrama de Gantt del Proyecto](../images/Gantt.png)
 
