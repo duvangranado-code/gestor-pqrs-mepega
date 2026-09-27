@@ -8,7 +8,7 @@ El propósito principal es ofrecer a la organización una herramienta digital ce
 
 * **Trazabilidad:** Llevar un registro claro de cada solicitud, su estado y su evolución en el periodo de tiempo que tarda en recibirse, procesarse y en dar una respuesta adecuada.
 * **Control de acceso:** Uso de un sistema de inicio de sesión basado en roles (Administrador y Operador) para proteger los datos.
-* **Gestión de plazos legales:** Llevar un control estricto del tiempo máximo de respuesta (hasta 30 días calendario) para evitar vencimientos en las solicitudes recibidas.
+* **Gestión de plazos legales:** Llevar un control estricto del tiempo máximo de respuesta (hasta 15 días calendario) para evitar vencimientos en las solicitudes recibidas.
 * **Análisis de gestión:** Generación automática de los radicados y de las estadísticas que facilitan la toma en las decisiones.
 * **Análisis estadístico e integración:** Preparación de los datos para su posterior exportación y visualización en tableros de control interactivos en Power BI.
 
