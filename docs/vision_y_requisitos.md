@@ -20,7 +20,7 @@ El propósito principal es ofrecer a la organización una herramienta digital ce
 2. **Registro de PQRS:** Permite registrar las solicitudes (Petición, Queja, Reclamo, Sugerencia) validando los datos estrictos del solicitante (nombre, documento, teléfono, correo y dirección).
 3. **Almacenamiento en Archivos Planos:** Almacena de forma independiente los registros en la carpeta `data/` (`Peticion.txt`, `Queja.txt`, `Reclamo.txt`, `Sugerencia.txt`, `Usuarios.txt`) utilizando codificación `utf-8`.
 4. **Consulta y Actualización:** Permite consultar los registros que se encuentran activos, cambiar estados de manera secuencial (`Registrada` - `En proceso` - `Solucionada`) e imprimir comprobantes en formato ASCII de 120 caracteres.
-5. **Cálculo de Plazos y Estadísticas:** Calcula automáticamente la fecha máxima de respuesta en 30 días calendario y genera los reportes de gestión.
+5. **Cálculo de Plazos y Estadísticas:** Calcula automáticamente la fecha máxima de respuesta en 15 días calendario y genera los reportes de gestión.
 
 ## Requisitos No Funcionales (Características de calidad y técnicas)
 
